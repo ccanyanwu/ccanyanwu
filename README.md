@@ -1,7 +1,6 @@
 ### Hi 👋 there, I'm Collins - aka [thrive][website]
 
 [![Website](https://img.shields.io/website?label=thrivetech&style=for-the-badge&url=https%3A%2F%2Fthrive-portfolio.netlify.app )](https://thrive-portfolio.netlify.app)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/thryvee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthryvee&screen_name=thryvee)
 
 ## I am a  Developer and a lifelong learner!!
@@ -48,10 +47,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ccanyanwu's GitHub Stats" src="https://github-readme-stats.ccanyanwu.vercel.app/api?username=ccanyanwu&show_icons=true&hide_border=true&hide=stars" />
-
+  <img align="left" alt="ccanyanwu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ccanyanwu&show_icons=true&hide_border=true&hide=stars" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [website]: https://thrive-portfolio.netlify.app 
 [twitter]: https://twitter.com/thryvee
 [linkedin]: https://linkedin.com/in/anyanwucc
+
