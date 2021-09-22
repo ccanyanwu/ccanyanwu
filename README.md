@@ -44,12 +44,10 @@
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="CCANYANWU' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ccanyanwu&langs_count=5&show_owner=true&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true&count_private=true&hide_border=true&hide=stars" />
+<br />
+  <img align="left" alt="CCANYANWU' GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccanyanwu&repo=github-readme-stats&layout=compact" />
 
-  <img align="left" alt="ccanyanwu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ccanyanwu&show_icons=true&hide_border=true&hide=stars" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</details>
 
 [website]: https://thrive-portfolio.netlify.app 
 [twitter]: https://twitter.com/thryvee
