@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate with other bright minds in building impactful products
-- 🥅 2021 Goals: Become productive with react
+- 🥅 2022 Goals: React Expertise and web3
 - ⚡ Fun fact: I can mimic any character
 
 ### Connect with me:
