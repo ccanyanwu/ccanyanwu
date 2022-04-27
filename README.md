@@ -42,6 +42,7 @@
 <br />
 
 ---
+![Profile views](https://gpvc.arturio.dev/ccanyanwu)
 
 
   <img align="left" alt="CCANYANWU' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ccanyanwu&langs_count=5&show_owner=true&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true&count_private=true&hide_border=true&hide=stars" />
