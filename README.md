@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring the cloud and scalable systems
 - 👯 I’m looking to collaborate with other bright minds in building impactful products
-- 🥅 2024 Goals: Clou expertise for resilient systems
+- 🥅 2024 Goals: Cloud expertise for resilient systems
 - ⚡ Fun fact: I can mimic any character
 
 ### Connect with me:
